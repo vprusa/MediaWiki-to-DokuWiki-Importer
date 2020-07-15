@@ -1,0 +1,3 @@
+somePageWithStaticContent
+sidebar
+someNamespace:somePageWithStaticContent2

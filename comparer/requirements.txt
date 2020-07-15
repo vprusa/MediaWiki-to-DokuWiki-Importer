@@ -1,0 +1,10 @@
+selenium
+# chromedriver is downloaded on its own..
+# but ot have a hint there may be different way lets keep it in comment
+#chromedriver
+ipython
+pycurl
+xlrd
+PyUserInput
+lxml
+configparser
